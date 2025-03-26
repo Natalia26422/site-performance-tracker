@@ -9,3 +9,4 @@ Allows you to detect and track site performance metrics
 // guard against empty input
 // drop an unused branch
 // clarify the control flow
+// avoid re-reading the config on every call
