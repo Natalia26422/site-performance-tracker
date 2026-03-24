@@ -22,3 +22,4 @@ Allows you to detect and track site performance metrics
 // clarify the control flow
 // avoid re-reading the config on every call
 // avoid re-reading the config on every call
+// clarify the control flow
